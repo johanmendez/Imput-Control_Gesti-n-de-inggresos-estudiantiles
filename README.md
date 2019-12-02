@@ -1,4 +1,4 @@
-# simon_dice
+# Imput-Control
 ## Introducción
 Se realizará un proyecto el cual consiste en implementar un software que nos permita registrar la entrada y salida de los estudiantes de bachillerato de una institución educativa, con esto se quiere automatizar dicho proceso y que la institución tenga mayor control de las entradas y salidas de sus estudiantes y aparte de eso que se genere el llamado de lista más rápido y eficiente.
 ## Planteamiento del problenma
