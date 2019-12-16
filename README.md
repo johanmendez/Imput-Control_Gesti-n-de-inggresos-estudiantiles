@@ -1,6 +1,6 @@
 # Imput-Control
 
-![}(http://imgfz.com/i/jDvuxAm.jpeg)
+![](http://imgfz.com/i/jDvuxAm.jpeg)
 
 ## Introducción
 Se desea llevar a cabo un proyecto con el fin de implementar un software que permita llevar un buen registro de la entrada de los estudiantes de bachillerato de una institución educativa. Para realizar este proyecto se tomó como fuente el Colegio Simón Rodríguez, recolectando la información necesaria para dicho proceso. Con esto se quiere automatizar el procedimiento para que la institución tenga un mejor control de ingreso de sus estudiantes, haciendo que el proceso sea mucho más rápido, seguro y eficiente.
